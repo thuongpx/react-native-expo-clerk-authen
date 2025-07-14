@@ -10,7 +10,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npm install
    ```
 
-2. Start the app
+2. ```bash
+   create .env file
+   add EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY into .env
+   ```
+
+3. Start the app
 
    ```bash
    npx expo start
